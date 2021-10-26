@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ilias-Op-De-Fiets
+- 🌱 I’m currently learning C#
+- 📫 Discord: Ilias#7072
